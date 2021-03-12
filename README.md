@@ -20,3 +20,5 @@ The purpose of this project was to build multiple machine learning models and co
 * Separated the data for training and testing.
 * Used GridSearchCV to hypertune the models and boost performance.
 * Tuned and compared multiple classifiers.
+
+## Results
