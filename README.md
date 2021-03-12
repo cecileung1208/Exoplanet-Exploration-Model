@@ -14,3 +14,9 @@ The purpose of this project was to build multiple machine learning models and co
   * SVM
   * Deep Learning
 
+## Method
+* Preprocessed the dataset prior to fitting the models.
+* Scaled the numerical data.
+* Separated the data for training and testing.
+* Used GridSearchCV to hypertune the models and boost performance.
+* Tuned and compared multiple classifiers.
